@@ -1,2 +1,2 @@
 # recipes
-2º projeto - Reeceitas de drinks
+2º projeto - Receitas de drinks
